@@ -1,0 +1,10 @@
+The Main files(which works on main dataset) for this project are greater than 2.5mb and can not be uploaded to github. Please use the following link to view the project.
+
+https://drive.google.com/drive/folders/1D91aojPgb1FOZRNIfGek22-foMJjofmv?usp=sharing
+
+
+IMPORTANT:
+2nd dataset is the Dataset which is solely used for comparison of Capsule vs CNN performance.Since this dataset gives high accuracy we figured this will be better for comparing the capsule with CNN(and transfer learning).
+
+
+Main dataset is the dataset proposed in the paper(which we are trying to beat) which is of our primary interest.
